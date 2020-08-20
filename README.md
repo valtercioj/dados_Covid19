@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/Covid19.PNG">
+  <img src="Covid19.PNG">
 </p>
 
 ```
